@@ -1,3 +1,3 @@
-|Test ID|Description of Test case|Input Values|Expected output|Actual Output|
-|:-----:|:----------------------:|:----------:|:-------------:|:------ -----:|
+|Test ID|Description|Input Values|Expected output|Actual Output|
+|:-----:|:---------:|:----------:|:-------------:|:-----------:|
 |01|
