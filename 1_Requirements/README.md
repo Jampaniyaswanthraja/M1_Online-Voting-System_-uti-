@@ -8,3 +8,11 @@
 # Low Level Requirements
 * How each feature is implemented
 * The application of combined weak biometrics leads to systems that are less complex and more robust in terms of the security levels attained. There are strong single biometric measures which involve retinal and iris scans that are rather hard, if not impossible, to breach, but usually lead to more complex systems which, in turn, slow down the underlying biometric matching process due to the amount of data processing involved. For these reasons, amongst others, the type of biometrics addressed in this work is of the former type that involves combined biometrics of the weak types. This will be elaborated upon in the succeeding sections
+
+# Swot Analysis
+* STRENGTHS
+* Mobile voting as an aspect of electronic voting cannot be separated from electronic voting. It is an inclusion to electronic voting platform to support mobile devices in voting.
+* WEAKNESSES
+* The weakness to the integration and total deployment of mobile technology in voting begins from awareness, policy and technology. 
+* OPPORTUNITIES
+* Both supporters and opponents of e-voting offer arguments justifying which method is better suited for the electoral process. 
