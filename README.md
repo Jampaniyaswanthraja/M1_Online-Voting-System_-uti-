@@ -1,7 +1,8 @@
 # M1_OnlineVotingSystem_util
 # Description
-* Due to worldwide advancements in computer and telecommunication technologies and the underlying infrastructures, online voting or e-Voting is no longer a North American or Western phenomenon
+* In Democratic countries like India, the voting system plays a major role during elections. Traditionally, the election commission in India uses electronic voting machines whichneedmore manpower, time-consuming and also they are less trustworthy
 # About the code
+
 # Goal
 * The multifaceted online e-voting system. The proposed system is capable of handlingelectronic ballots with multiple scopes at the same time,e.g., presidential, municipal,parliamentary, amongst others.
 # Input
