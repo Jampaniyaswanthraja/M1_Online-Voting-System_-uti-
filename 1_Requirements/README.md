@@ -17,8 +17,8 @@
 * OPPORTUNITIES
 * Both supporters and opponents of e-voting offer arguments justifying which method is better suited for the electoral process. 
 # 4W'S and 1-H
-* What-
-* why-
-* where-
-* when-
-* How-
+* What- voter can use hisher voting right online without any difficulty. 
+* why- While the main perceived benefit to online voting is increasing voter participation.
+* where- voters will be able to instantly access the voting system online.
+* when- in elections.
+* How-To register to vote, voters are added to an electoral roll of eligible voters, as with any election.
