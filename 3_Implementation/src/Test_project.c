@@ -51,13 +51,6 @@ TEST_ASSERT_EQUAL_INT(1,symbol(2,2));
 TEST_ASSERT_EQUAL_INT(1,symbol(1,2));
 }
 
-void test_votes(void)
-{
-TEST_ASSERT_EQUAL_INT(2,votes(1,1));
-TEST_ASSERT_EQUAL_INT(2,votes(1,2));
-TEST_ASSERT_EQUAL_INT(4,votes(2,2));
-TEST_ASSERT_EQUAL_INT(4,votes(1,3));
-}
 int main()
 {
   UNITY_BEGIN();
@@ -66,7 +59,6 @@ int main()
   RUN_TEST(test_login_status);
   RUN_TEST(test_candidate_choose);
   RUN_TEST(test_symbol);
-  RUN_TEST(test_votes);
 
   return UNITY_END();
 }
