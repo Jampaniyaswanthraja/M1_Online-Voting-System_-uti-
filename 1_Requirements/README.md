@@ -16,3 +16,9 @@
 * The weakness to the integration and total deployment of mobile technology in voting begins from awareness, policy and technology. 
 * OPPORTUNITIES
 * Both supporters and opponents of e-voting offer arguments justifying which method is better suited for the electoral process. 
+# 4W'S and 1-H
+* What-
+* why-
+* where-
+* when-
+* How-
