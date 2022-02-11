@@ -46,3 +46,4 @@
 # Best Practices
 * high level Test plans are shown
 * low level Test plans are shown
+* Mentioned all inputs and outputs
