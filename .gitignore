@@ -1,3 +1,8 @@
 *.o
 *.out
 *.s
+*.lib
+*.io.h
+*.h
+*.fptr
+*.strcmp
