@@ -1,6 +1,7 @@
-# Description
-* Describe about the project
-* The multifaceted online e-voting system. The proposed system is capable of handling electronic ballots with multiple scopes at the same time,e.g., presidential, municipal, parliamentary, amongst others.The system caters for integrity of an election process in termsof the functional and non-functional requirements.The functional requirements embedded in the design of the proposed system warrant well-secured identification and authentication processes for the voter through the use of combined simple biometrics.The design of the system guarantees that no votes in favor of agiven candidate are lost, due to improper tallying of the voting counts, with the proper incorporation of system FLAG’s. Transparency of voting follows through in all phases of an election process to assure the voter that his/her vote went in favor of his/her candidate of choice. Of utmost importance are the requirements forcorrectness, robustness, coherence, consistency, and security.
+# Identifying features
+* The multifaceted online e-voting system. The proposed system is capable of handling electronic ballots with multiple scopes at the same time,e.g., presidential, municipal, parliamentary, amongst others.The system caters for integrity of an election process in termsof the functional and non-functional requirements.The functional requirements embedded in the design of the proposed system warrant well-secured identification and authentication processes for the voter through the use of combined simple biometrics.
+# State of art/ Research
+* The design of the system guarantees that no votes in favor of agiven candidate are lost, due to improper tallying of the voting counts, with the proper incorporation of system FLAG’s. Transparency of voting follows through in all phases of an election process to assure the voter that his/her vote went in favor of his/her candidate of choice. Of utmost importance are the requirements forcorrectness, robustness, coherence, consistency, and security.
 # Requirements
 # High Level Requirements
 * Features of my project
@@ -22,5 +23,6 @@
 * where- voters will be able to instantly access the voting system online.
 * when- in elections.
 * How-To register to vote, voters are added to an electoral roll of eligible voters, as with any election.
-
-
+# Best method followed
+* Used functions to decrease dependency on main function
+* Created header file so that the fuctions can be used else where ever required without any difficulty
