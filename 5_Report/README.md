@@ -5,5 +5,5 @@
 * The conventional voting scheme has been linked to several elections irregularities including ballot stuffing, ballot snatching and voter impersonation
 
 # * All codiga,codacy is done
-# * Implementation is done and the file runs succesfully
+# * Implementation is done
 # * The Architecture (Behavioural, Structural) both high and low level is also created
