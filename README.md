@@ -1,4 +1,7 @@
 # M1_OnlineVotingSystem_util
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e1a59b30434a46378273caf5abd5e0ac)](https://app.codacy.com/gh/Jampaniyaswanthraja/M1_OnlineVotingSystem_util?utm_source=github.com&utm_medium=referral&utm_content=Jampaniyaswanthraja/M1_OnlineVotingSystem_util&utm_campaign=Badge_Grade_Settings)
+
 # Description
 * In Democratic countries like India, the voting system plays a major role during elections. Traditionally, the election commission in India uses electronic voting machines whichneedmore manpower, time-consuming and also they are less trustworthy
 # About the code
