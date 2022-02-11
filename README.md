@@ -16,3 +16,4 @@
 and vote cannot casted twice 
 # Output
 * With the use of an e-voting system, as the one proposed in this project, many of the issues, that have challenged traditional voting systems in the past, are bound to be resolvedprovidingpeace of mind to both voters and election candidates.
+
