@@ -25,4 +25,4 @@
 * How-To register to vote, voters are added to an electoral roll of eligible voters, as with any election.
 # Best method followed
 * Used functions to decrease dependency on main function
-* Created header file so that the fuctions can be used else where ever required without any difficulty
+* Created header file so that the fuctions can be used
