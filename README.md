@@ -1,6 +1,10 @@
 # M1_OnlineVotingSystem_util
 # Description
 * In Democratic countries like India, the voting system plays a major role during elections. Traditionally, the election commission in India uses electronic voting machines whichneedmore manpower, time-consuming and also they are less trustworthy
+# About the code
+|Codiga|
+|------|
+|https://app.codiga.io/public/user/github/Jampaniyaswanthraja|
 
 # Goal
 * The multifaceted online e-voting system. The proposed system is capable of handlingelectronic ballots with multiple scopes at the same time,e.g., presidential, municipal,parliamentary, amongst others.
