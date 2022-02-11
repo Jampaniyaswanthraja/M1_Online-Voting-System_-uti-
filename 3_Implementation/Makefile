@@ -1,5 +1,5 @@
-PROJ_NAME = main
-TEST_PROJ_NAME = Test_$(PROJ_NAME)
+Onilne Voting System_main = main
+TEST_Onilne Voting System = Test_$(Onilne Voting System)
 
 SRC = src/addition.c\
 src/subtraction.c\
