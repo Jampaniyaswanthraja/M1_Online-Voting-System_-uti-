@@ -4,8 +4,7 @@
 # About the code
 |Codiga|Codacy|
 |------|------|
-|![Jampaniyaswanthraja](https://user-images.githubusercontent.com/98829253/153545490-1199d7fe-29f6-4da1-b97f-0fc944d6fefc.svg)
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd313ddce3f248e88e47f87395270511)](https://www.codacy.com/gh/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jampaniyaswanthraja/M1_OnlineVotingSystem_util&amp;utm_campaign=Badge_Grade)|
+||[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd313ddce3f248e88e47f87395270511)(https://www.codacy.com/gh/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jampaniyaswanthraja/M1_OnlineVotingSystem_util&amp;utm_campaign=Badge_Grade)|
 ![Jampaniyaswanthraja](https://user-images.githubusercontent.com/98829253/153545490-1199d7fe-29f6-4da1-b97f-0fc944d6fefc.svg)
 
 # Goal
