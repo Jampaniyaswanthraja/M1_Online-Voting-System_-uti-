@@ -44,7 +44,5 @@
 |02|symbol|{2,3}(ID,choose)|1|100 voted|
 
 # Best Practices
-* Checked all the possibilities of output
-* Mentioned all the inputs for better understanding
 * Presented in tabular form for easy understanding 
 * Both High level and low level Test plans are shown
