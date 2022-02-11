@@ -1,14 +1,6 @@
 Onilne Voting System_main = main
 TEST_Onilne Voting System = Test_$(Onilne Voting System)
 
-SRC = src/addition.c\
-src/subtraction.c\
-src/division.c\
-src/modules.c\
-src/multiplication.c\
-src/factorial.c\
-src/power.c\
-
 
 
 INC_H = inc
