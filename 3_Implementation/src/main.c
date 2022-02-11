@@ -18,36 +18,6 @@ void printMessageCenter(const char* message)
     printf("%s",message);
 }
 
-
-void headMessage(const char *message)
-{
-    system("cls");
-    printf("\t\t\t###########################################################################");
-    printf("\n\t\t\t############                                                   ############");
-    printf("\n\t\t\t############                Voting Machine                     ############");
-    printf("\n\t\t\t############                                                   ############");
-    printf("\n\t\t\t###########################################################################");
-    printf("\n\t\t\t---------------------------------------------------------------------------\n");
-    printMessageCenter(message);
-    printf("\n\t\t\t----------------------------------------------------------------------------");
-}
-
-void welcomeMessage()
-{
-    headMessage("Welcome to The Election");
-    printf("\n\n\n\n\n");
-    printf("\n\t\t\t  *------------------*\n");
-    printf("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
-    printf("\n\t\t\t        =                 WELCOME                   =");
-    printf("\n\t\t\t        =                   TO                      =");
-    printf("\n\t\t\t        =                ELECTRONIC                 =");
-    printf("\n\t\t\t        =                  VOTING                   =");
-    printf("\n\t\t\t        =                 MACHINE                   =");
-    printf("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
-    printf("\n\t\t\t  *------------------*\n");
-    printf("\n\n\n\t\t\t Enter any key to continue.....");
-
-}
 void main()
 {
 
@@ -71,7 +41,6 @@ void main()
         char st[100][100],vote[100][100];
         char sy[100],cp[20],t[100];
         int count[100]={0};char n2,a;
-        printf("          ..................... WELCOME TO CLAIM YOUR RIGHT TO VOTE ......................\n");
         printf("\n");
         printf("\n");
         printf("\n");
