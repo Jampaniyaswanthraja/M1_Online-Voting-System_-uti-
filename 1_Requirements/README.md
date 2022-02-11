@@ -22,3 +22,5 @@
 * where- voters will be able to instantly access the voting system online.
 * when- in elections.
 * How-To register to vote, voters are added to an electoral roll of eligible voters, as with any election.
+
+
