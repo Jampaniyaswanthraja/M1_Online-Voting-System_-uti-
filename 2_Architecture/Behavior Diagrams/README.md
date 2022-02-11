@@ -8,3 +8,4 @@
 
 # Sequence Diagram
 ![Screenshot 2022-02-09 142720](https://user-images.githubusercontent.com/98829253/153160749-ed88b488-109c-49c6-b9d9-7bd410317685.png)
+
