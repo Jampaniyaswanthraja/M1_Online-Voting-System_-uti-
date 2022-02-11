@@ -20,13 +20,13 @@ endif
 
 
 all:
-	gcc -I $(INC_H) $(SRC) main.c -o $(call FixPath,$(PROJ_NAME).$(EXEC))
+	gcc -I $(INC_H) $(SRC) main.c -o $(call FixPath,$(OnlineVotingSystem).$(EXEC))
 	
 run:
 	$(call FixPath,$(PROJ_NAME).$(EXEC))
 test:
-	gcc -I $(INC_H) -I $(INC_T) $(TEST_SRC) $(SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
-	./$(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
+	gcc -I $(INC_H) -I $(INC_T) $(TEST_SRC) $(SRC) -o $(call FixPath,$(TEST_OnlineVotingSystem).$(EXEC))
+	./$(call FixPath,$(TEST_OnlineVotingSystem).$(EXEC))
 
 clean:
 	
