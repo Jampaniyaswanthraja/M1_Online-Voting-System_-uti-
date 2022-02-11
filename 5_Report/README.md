@@ -10,6 +10,6 @@
 * Used go to statements for implementation
 * Initialised a array with structure implementation
 
-# * All Linux Build, Unity, Build is done
+# * All codiga,codacy is done
 # * Implementation is done and the file runs succesfully
 # * The Architecture (Behavioural, Structural) both high and low level is also created
