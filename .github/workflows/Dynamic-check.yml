@@ -1,0 +1,22 @@
+name: Dynamiccheck
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: apt install dependency
+      run: 
+        sudo apt-get -y install valgrind
+        sudo apt-get -y install libcunitl-do libcunitl-dev
+    - name: Dyanamic Analysis
+      run: make dynamic_analysis -C 3_Implementation
+ 
