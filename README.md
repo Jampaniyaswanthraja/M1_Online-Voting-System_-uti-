@@ -16,6 +16,6 @@
 # Codacy
 * ![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd313ddce3f248e88e47f87395270511)
 # Static check
-*
+* [![Cppcheck](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/static%20check.yml/badge.svg)](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/static%20check.yml)
 # Dynamic check
 *
