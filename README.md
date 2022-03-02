@@ -8,9 +8,13 @@
 * [![Build_Linux](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/Build-Linux.yml/badge.svg?branch=main)](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/Build-Linux.yml)
 # Build
 * [![C/C++ CI](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/c-cpp.yml)
-
+# Unity
+* [![Unit Testing -Unity](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/unity.yml/badge.svg)](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/unity.yml)
 # Codiga
 * ![Code grade](https://api.codiga.io/project/31010/score/svg)
 * ![Code grade](https://api.codiga.io/project/31010/status/svg)
 # Codacy
 * ![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd313ddce3f248e88e47f87395270511)
+# Static check
+
+# Dynamic check
