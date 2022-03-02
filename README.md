@@ -15,3 +15,7 @@
 * ![Code grade](https://api.codiga.io/project/31010/status/svg)
 # Codacy
 * ![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd313ddce3f248e88e47f87395270511)
+# Static check
+*
+# Dynamic check
+*
