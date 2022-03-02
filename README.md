@@ -18,4 +18,4 @@
 # Static check
 * [![Cppcheck](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/static%20check.yml/badge.svg)](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/static%20check.yml)
 # Dynamic check
-*
+* [![Dynamiccheck](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/Dynamic-check.yml)
