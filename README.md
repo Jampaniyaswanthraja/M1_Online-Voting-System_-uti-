@@ -11,8 +11,8 @@
 # Unity
 * [![Unit Testing -Unity](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/unity.yml/badge.svg)](https://github.com/Jampaniyaswanthraja/M1_OnlineVotingSystem_util/actions/workflows/unity.yml)
 # Codiga
-* ![Code grade](https://api.codiga.io/project/31010/score/svg)
-* ![Code grade](https://api.codiga.io/project/31010/status/svg)
+* ![Code grade](https://api.codiga.io/project/31856/score/svg)
+* ![Code grade](https://api.codiga.io/project/31856/status/svg)
 # Codacy
 * ![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd313ddce3f248e88e47f87395270511)
 # Static check
